@@ -2,6 +2,7 @@
 // https://www.kadenze.com/courses/the-nature-of-code
 // http://natureofcode.com/
 // Session 2: Array of Particles, multiple forces
+// just playing.
 
 function Person(x) {
   this.pos = createVector(x, height);
